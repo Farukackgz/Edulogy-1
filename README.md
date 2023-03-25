@@ -3,7 +3,7 @@
  #Proje Öğrenme Yönetim Sistemidir.
  
  
- **Amacı Öğrencilerin istedikleri alanda eğitim almaları eğitmenlerin ise yetkin oldukları her alanda eğitim vereebilmelerine imkan sağlamaktadır**
+ **Amacı Öğrencilerin istedikleri alanda eğitim almaları eğitmenlerin ise yetkin oldukları her alanda eğitim verebilmelerine imkan sağlamaktadır**
  
  ###İçerisinde
  
